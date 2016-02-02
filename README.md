@@ -61,7 +61,7 @@ http://seanooi.github.io/iOS-WebP/
 * [RCCPeakableImageView](https://github.com/robertoseidenberg/RCCPeakableImageView)  Implementation of a "peekable" thumbnail image as shown at the Flag Kickstarter Project    
 
 #Autolayout
-* [Masonry](https://github.com/SnapKit/Masonry) So far the best AutoLayout wrapper for in code use. Convinient shortcuts for creating complicated layout constraints.
+* [Masonry](https://github.com/SnapKit/Masonry) So far the best AutoLayout wrapper. Convinient shortcuts for creating complicated layout constraints in code.
 * [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) UIView category which makes it easy to create layout constraints in code   
 * [DynamicXray](https://github.com/chrismiles/DynamicXray) iOS UIKit Dynamics runtime visualisation and introspection library.
 http://dynamicxray.net/   
